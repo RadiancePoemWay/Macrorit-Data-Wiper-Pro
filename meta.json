@@ -1,0 +1,23 @@
+{
+  "repo": "macrorit-data-wiper-pro",
+  "product": "Macrorit Data Wiper Pro",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "data-wipe",
+  "topics": [
+    "macrorit-wiper",
+    "dod-wipe-desk",
+    "partition-target-windows",
+    "macrorit-2026",
+    "how-to-install-macrorit",
+    "macrorit-desktop-package",
+    "verify-pass-suite",
+    "custom-method-tools",
+    "disk-retire-pro",
+    "macrorit-data-wiper"
+  ],
+  "site": "toolix.me"
+}
